@@ -1,0 +1,779 @@
+$color-dark: #3F3F3F;
+$color-mid: #2e3b60;
+$color-light: #4ec68d;
+$color-white: white;
+$color-bonus: #F5F5F7;
+
+$break-phone :600px;
+$break-tabletMin : 601px;
+$break-tabletMax :960px;
+$break-desk: 961px;
+$break-tv : 1250px;
+
+
+// $PrimaryColor: #4e54c8;
+// $SecondaryColor: #8089ff;
+// $ThemeLightColor: #f5fafe;
+
+// $desk-md-screen: 1199px;
+// $desk-sm-screen: 992px;
+// $desk-xs-screen: 991px;
+// $tablet-sm-screen: 768px;
+// $tablet-xs-screen: 767px;
+
+
+h1, h2, h3, h4{
+  color: $color-mid;
+  font-family: 'Didact Gothic', sans-serif;
+  text-align: center;
+}
+
+p{
+  color: $color-dark;
+  font-family: 'Arimo', sans-serif;
+  text-align: justify;
+}
+
+.Links{
+  text-decoration: none;
+  .StepsBtn{
+    margin: auto;
+    margin-top: 15px;
+    background-color: $color-mid;
+    p{
+      color: $color-white;
+      margin: 0;
+    }
+    &:hover{
+      background-color: $color-light;
+
+    }
+  }
+}
+
+.BuildConnect {
+  text-align: center;
+}
+
+// ++++++++ HEADER +++++++++++++++
+.Header{
+  margin-bottom: 10%;
+  .HeaderAppBar{
+    background-color: $color-white;
+    .ContainerAppBar{
+      width: 80%;
+      margin: auto;
+      .HeaderMenus{
+        float: right;
+      }
+      .Langue{
+        float: right;
+        }
+      .boutonsHeader{
+        float: right;
+        &:hover{
+          background-color: $color-light;
+          p{
+            color: $color-white;
+          }
+        }
+      }
+    }
+  }
+  .Label{
+    float: right;
+    p{
+      color: $color-light;
+      font-weight: bold;
+    }
+  }
+}
+
+
+// ++++++++ FOOTER +++++++++++++++
+.Footer{
+  
+  background-color: $color-dark;
+  color: $color-light;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  margin: auto;
+  padding-bottom: 1%;
+  h2{
+      font-size: medium;
+      margin-top: 2%;
+      color: $color-light;
+      text-align: center;
+  }
+  p{
+      margin: 0px;
+      font-size: small;
+      color: $color-white;
+  }
+
+  .partenaires{
+      padding-bottom: 1%;   
+      margin: auto;
+      width: 80%;
+      border-bottom-style: solid;
+      border-bottom-width: 1px;
+      border-bottom-color: $color-light;
+      @media (max-width: 600px) {
+          width: 100%;      
+      }
+      .Partenaire{
+          background-color: $color-white;
+          margin: auto; 
+          height: 75px;
+          width: 65px; 
+
+      }
+      .AvatarPartenaire{
+        height: 50px;
+        width: 50px;
+        margin: auto;
+        background-color: $color-white;
+        .FooterAvatarLogo{
+          height: 30px;
+          padding-top: 4px;
+        }
+         }   
+  }
+
+  .buildConnect{
+      width: 80%;
+      margin: auto;
+      margin-top: 1%;
+      .adresse{
+          text-align: right;
+          float: right;
+      }
+      .infos{
+          text-align: left;
+        p{
+          &:hover{
+            color: $color-light;
+          }
+        }
+      }
+  }
+
+  @media screen and (max-width: $break-phone) {
+      p{
+        font-size: x-small;
+        text-align: left;
+      }
+  }
+
+}
+
+
+// ++++++++ Home +++++++++++++++
+.Home{
+  .Element0{
+    width: 75%;
+    margin: auto;
+    margin-bottom: 15%;
+    h1{
+      margin: 0;
+      padding-bottom: 5%;
+    }
+    @media screen and (max-width: $break-phone) {
+    img{  
+      width: 200px;
+      padding-top: 75px;
+    }
+  }
+    span{
+      color: $color-light;
+    }
+    p{
+      font-size: 15px;
+    }
+    
+    .boutonCertifier{
+      margin-top: 5%;
+      background-color: $color-mid;
+      p{
+        color: $color-white;
+        text-align: center;
+        font-size: medium;
+        margin: 0;
+
+      }
+      &:hover{
+        background-color: $color-light;
+      }
+    }
+    @media screen and (min-width: $break-tv) {
+      margin-bottom: 5%;
+    }
+  }
+
+
+  .Element1{
+    background-color: $color-bonus;
+    width: 100%;
+    margin: auto;
+    margin-bottom: 5%;
+    padding-bottom: 10%;
+    padding-top: 10%;
+    border-radius: 3px;
+    .Element1Grid{
+      width: 80%;
+      margin: auto;
+    }
+    h2{
+      margin-top: 0;
+      padding-bottom: 5%;
+      text-align: left;
+      width: 90%;
+      margin: auto;
+    }
+    img{
+      height: 250px;
+      width: auto;
+      border-width: 3px;
+      margin-top: 2%;
+    }
+    p{
+      width: 90%;
+      margin: auto;
+    }
+    @media screen and (min-width: 1200px ){
+      img{
+        height: 325px;
+        width: auto;
+        margin: auto;
+      }
+    }
+    @media screen and (max-width: $break-phone) {
+      h2{
+        margin-bottom: 5%;
+      }
+      p{
+        padding: 0;
+      }
+      margin-top: 20%;
+      img{  
+        width: 250px;
+        height: auto;
+        padding-top: 35px;
+      }
+    }
+    @media screen and (min-width: $break-tv) {
+      padding-bottom: 5%;
+      padding-top: 5%;
+    }
+  }
+
+  .Element2{
+    width: 82%;
+    margin: auto;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    .Element2Text{
+      h2{
+        padding-bottom: 5%;
+      }
+      width: 60%;
+      margin: auto;
+      @media screen and (max-width: $break-phone) {
+      width: 80%;
+      }
+    }
+    @media screen and (min-width: $break-tv) {
+      margin-top: 5%;
+      margin-bottom: 5%;
+    }
+  }
+  .Element3{
+    background-color: $color-bonus;
+    width: 100%;
+    margin: auto;
+    // margin-bottom: 5%;
+    padding-bottom: 15%;
+    padding-top: 10%;
+    border-radius: 3px;
+    h2{
+      margin-bottom: 10%;
+      width: 75%;
+      margin: auto;
+    }
+    h3{
+      text-align: center;
+    }
+
+    .Element3Grid{
+      margin: auto;
+      width: 80%;
+      margin-top: 5%;
+      @media screen and (max-width: $break-phone) {
+        margin-top: 5%;
+        width: 80%;
+      }
+    }
+    .Element3Cards{
+      margin: auto;
+      height: 450px;
+      transition: transform .4s;
+      border-color: $color-light;
+      border-style: solid;
+      border-width: 2px;
+      text-align: center;
+
+      .Element3CardsBtn{
+        background-color: $color-mid;
+        margin-bottom: 25px;
+        margin-top: 15px;
+        p{
+        margin: 0;
+        color: $color-white;
+        font-style: normal;
+      }
+      &:hover{
+        background-color: $color-light;
+      }
+      }
+
+      @media screen and (min-width: $break-desk )  {
+        width: 75%;
+      }
+
+      @media screen and (min-width: $break-tabletMin ) and (max-width: $break-tabletMax )  {
+        width: 300px;
+        margin-top: 10%;
+      }
+      &:hover{
+        // transform: scale(1.2);
+        border-color: $color-light;
+        user-select: none; 
+      }
+      p{
+        text-align: center;
+        font-weight: bold;
+        margin: 0;
+        font-size: small;
+        span{
+          color: $color-light;
+        }
+      }
+      @media screen and (max-width: $break-phone) {
+        margin: auto;
+        margin-top: 20%;
+        width: 80%;
+      }
+      .Element3CardList{
+        width: 100%;  
+        margin: auto;
+        padding-top: 35px;
+        padding: 0;
+        p{
+          text-align: left;
+        }
+      }
+    }
+    .rdy2rent{
+      opacity: 1;
+      border-style: solid;
+      border-color: $color-light;
+      border-width: 2px;
+      height: 450px;
+      padding: 0;
+      p{
+        font-size: small;
+      }
+      &:hover{
+        transform: scale(1.2);
+        border-color: $color-light;
+      }
+    }
+    .Ready2Innovate{
+      opacity: 0.6;
+    }
+    @media screen and (min-width: $break-tv) {
+      padding-bottom: 10%;
+      padding-top: 5%;
+    }
+  }
+  .Element4{
+    margin: auto;
+    width: 100%;
+    padding-bottom: 5%;
+    // .FormulaireElement4{
+    //   width: 60%;
+    //   margin: auto;
+    //   @media screen and (max-width: $break-phone) {
+    //   width: 90%;
+    //   }
+    //   .ContactMessage{
+    //     width: 200px;
+    //   }
+    // }
+    .ContactBtn{
+      background-color: $color-mid;
+      margin: auto;
+      p{
+        color: $color-white;
+        text-align: center;
+      }
+      &:hover{
+        background-color: $color-light;
+      }
+      @media screen and (max-width: $break-phone) {
+      margin-top: 10%;
+      }
+    }
+  }
+}
+
+// ++++++++ ReadyToRent +++++++++++++++
+.ReadyToRent{
+  @media screen and (max-width: $break-phone) {
+    margin-top: 25%;
+    }
+  margin: auto;
+  img{
+    height: 150px;
+  }
+  .Rdy2RentGrids{
+    width: 75%;
+    margin: auto;
+    img{
+      border-radius: 3px;
+    }
+  }
+  .Element0{
+    width: 75%;
+    margin: auto;
+    margin-bottom: 10%;
+    h1{
+      text-align: left;
+      width: 55%;
+      border-left-style: solid;
+      border-left-color: $color-light;
+      border-left-width: 4px;
+      border-top-style: solid;
+      border-top-color: $color-light;
+      border-top-width: 4px;
+      padding-left: 5%;
+      padding-top: 20px;
+    }
+
+
+    .LabelBuildConnect{
+      text-align: right;
+      border-right-style: solid;
+      border-right-color: $color-light;
+      border-right-width: 4px;
+      border-bottom-style: solid;
+      border-bottom-color: $color-light;
+      border-bottom-width: 4px;
+      padding-right: 5%;
+      margin-bottom: 5%;
+      span{
+        color: $color-light;
+      }
+    }
+  }
+  
+
+  .aConnectedWorld{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 10%;
+    h3{
+      background-color: rgba(255, 255, 255, 0.5);          
+    }
+
+    .paperConnectedWorld1{
+      width: 80%;
+      height: 150px;
+      margin: auto;
+      background-image: url('../img/rdy2rent/infrastructure2.png');
+      background-position: center;
+      background-size: cover;
+      user-select: none;
+      p{
+        font-weight: bold;
+        font-size: large;
+        color: $color-dark;
+        text-align: center;
+        padding-top: 5px;
+      }
+      &:hover{
+        background-image: url('../img/rdy2rent/infrastructure.png');
+        p{
+          background-color: rgba(0, 0, 0, 0.5);          
+          color: $color-light;
+          border-radius: 3px;
+        }
+      }
+      @media screen and (max-width: $break-phone) {
+      width: 125px;
+      height: 100px;
+      p{
+        font-size: medium;
+      }
+      }
+    }
+    .paperConnectedWorld2{
+      width: 80%;
+      height: 150px;
+      margin: auto;
+      background-image: url('../img/rdy2rent/securite2.png');
+      background-position: center;
+      background-size: cover;
+      user-select: none; 
+      p{
+        font-weight: bold;
+        font-size: large;
+        color: $color-dark;
+        text-align: center;
+        padding-top: 5px;
+      }
+      &:hover{
+        background-image: url('../img/rdy2rent/securite.png');
+        p{
+          background-color: rgba(0, 0, 0, 0.5);          
+          color: $color-light;
+          border-radius: 3px;
+        }
+      }
+      @media screen and (max-width: $break-phone) {
+        width: 125px;
+        height: 100px;
+        p{
+          font-size: medium;
+        }
+        }
+    }
+    .paperConnectedWorld3{
+      width: 80%;
+      height: 150px;
+      margin: auto;
+      background-image: url('../img/rdy2rent/resilience2.png');
+      background-position: center;
+      background-size: cover;
+      user-select: none; 
+
+      p{
+        font-weight: bold;
+        font-size: large;
+        color: $color-dark;
+        text-align: center;
+        padding-top: 5px;
+      }
+      &:hover{
+        background-image: url('../img/rdy2rent/resilience.png');
+        p{
+          background-color: rgba(0, 0, 0, 0.5);          
+          color: $color-light;
+          border-radius: 3px;
+        }
+      }
+      @media screen and (max-width: $break-phone) {
+        width: 125px;
+        height: 100px;
+        p{
+          font-size: medium;
+        }
+        }
+    }
+    .paperConnectedWorld4{
+      width: 80%;
+      height: 150px;
+      margin: auto;
+      background-image: url('../img/rdy2rent/userExperience2.png');
+      background-position: center;
+      background-size: cover;
+      user-select: none; 
+      p{
+        font-weight: bold;
+        font-size: large;
+        color: $color-dark;
+        text-align: center;
+        padding-top: 5px;
+      }
+      &:hover{
+        background-image: url('../img/rdy2rent/userExperience.png');
+        p{
+          background-color: rgba(0, 0, 0, 0.7);          
+          color: $color-light;
+          border-radius: 3px;
+        }
+      }
+      @media screen and (max-width: $break-phone) {
+        width: 125px;
+        height: 100px;
+        p{
+          font-size: medium;
+        }
+        }
+    }
+    
+  }
+
+  .Element1{
+      background-color: $color-bonus;
+      padding-bottom: 2.5%;
+      padding-top: 2.5%;
+      h2{
+        text-align: left;
+      }
+  }
+  .Element2{
+    background-color: $color-bonus;
+    padding-bottom: 2.5%;
+    h2{
+      text-align: left;
+    }
+  }
+  .Element3{
+    background-color: $color-bonus;
+    padding-bottom: 2.5%;
+    margin-bottom: 10%;
+    h2{
+      text-align: right;
+    }
+  }
+
+  .Ranking{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 15%;
+    h2{
+      margin-bottom: 5%;
+    }
+  }
+  .Element4{
+    width: 100%;
+    margin: auto;
+    margin-bottom: 10%;
+    .Stepper{
+      width: 75%;
+      margin: auto;
+      @media screen and (max-width: $break-phone) {
+      width: 90%;
+      }
+    }
+    .Steps{
+      width: 75%;
+      margin: auto;
+      text-align: center;
+      p{
+        margin: 0;
+      }
+      @media screen and (max-width: $break-phone) {
+        width: 100%;
+        }
+      h3{
+        color: $color-light;
+        text-align: right;
+      }
+    }
+  }
+  .Element5{
+    background-color: $color-bonus;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 10%;
+    text-align: left;
+
+  }
+  .Element6{
+    text-align: right;
+    float: right
+  }
+  .Element7{
+    margin-bottom: 10%;
+  }
+}
+
+// ++++++++ Contact +++++++++++++++
+.Contact{
+  margin: auto;
+  width: 50%;
+  margin-bottom: 20%;
+  margin-top: 10%;
+  p{
+    text-align: center;
+  }
+  h2{
+    margin-bottom: 10%;
+  }
+  @media screen and (max-width: $break-phone) {
+  margin-top: 50% !important;
+  margin-bottom: 30% !important;
+  width: 95%;
+  margin: auto;
+  }
+}
+
+// ++++++++ About Us +++++++++++++++
+.AboutUs{
+  margin: auto;
+  .AboutUsGrid{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 10%;
+
+    p{
+      text-align: center;
+    }
+    img{
+      width: 90%;
+      @media screen and (max-width: $break-phone) {
+        width: 200px;
+        }
+    }
+    .AboutUsGridContainer{
+      width: 75%;
+      margin: auto;
+      margin-bottom: 10%;
+      p{
+        text-align: justify;
+        padding-bottom: 2%;
+      }
+    }
+    @media screen and (min-width: $break-tv) {
+      margin-bottom: 5%;
+    }
+  }
+    .AboutUsGridGrey{
+      background-color: $color-bonus;
+      width: 100%;
+      margin: auto;
+      padding-top: 5%;
+      padding-bottom: 5%;
+
+      .AboutUsGridContainer{
+        width: 75%;
+        margin: auto;
+        h3{
+          text-align: center;
+        }
+        p{
+          text-align: center;
+        }
+      }
+  }
+  h2{
+    margin-bottom: 5%;
+  }
+  img{
+    border-radius: 3px;
+  }
+  p{
+    width: 90%;
+    margin: auto;
+  }
+}
+
+
+
+.zonetest{
+  margin-left: 550px;
+  margin-top: 60px;
+}

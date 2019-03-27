@@ -1,0 +1,169 @@
+{
+      "HeaderLabels": "Label",
+      "HeaderAPropos": "About us",
+      "HeaderContact": "Contact",
+      "HeaderLangue" : "EN",
+      "HeaderAccueil": "Home",
+
+      "HomeSlogan": "A connected world respectful of our health",
+      "HomeSloganP1": "Connectivity is now a fundamental aspect of everyone’s work.",
+      "HomeSloganP2" : "Understand the technology that enables that constant connection is however not at everyone’s grasp.",
+      "HomeSloganP3" : "BuildConnect has thus created an evaluation system allowing everyone to understand the connectivity of the building she is interested in.",
+      "HomeSloganP4" : "The label BuildConnect is an assessment system aiming at easing the understanding of technology, strategic decision making and highlight connectivity of buildings.",
+      "HomeSloganTexteBouton": "Label my building",
+
+      "HomeConnaitreSaConnectiviteTitre" :
+            "Know its connectivity and make the difference",
+      "HomeConnaitreSaConnectiviteP1" :
+            "Technology disrupts every fields and is entering at high speed in the real estate world.",
+      "HomeConnaitreSaConnectiviteP2" :
+            "More and more, companies are asking strategical questions regarding their technological choices. The connectivity argument becomes thenceforth a first grade argument.",
+      "HomeConnaitreSaConnectiviteP3" :
+            "The fact the the asset manager is bringing forward the technology demonstrates his understanding of tomorrow’s need and facilitates the decision making by clients.",
+
+      "HomeBuildConnectValoriseTitre" :
+            "How does the BuildConnect label enhance your building for the user ?",
+      "HomeBuildConnectValoriseP1" :
+            "Connectivity is now a must. Future as it appears today only confirms that trend and the ggrowing importance of technology.",
+      "HomeBuildConnectValoriseP2" :
+            "The BuildConnect label allows everyone to receive, to interpret , to compare and to valorize the connectivity of the building they own, occupy or are considering to rent.",
+      "HomeBuildConnectValoriseP3" :
+            "The BuildConnect covers the whole building infrastructure (structural, wired and wireless ) all over to user experience assessment.",
+      "HomeBuildConnectValoriseP4" :
+            "Moreover, the assessment also answers question related to the exposure to electromagnetic waves to facilitates users acceptance and get employee support.",
+      "HomeRepondreTousBesoinsTitre" :
+            "Answering all needs",
+      "HomeRepondreTousBesoinsContact" :
+            "Contact us",
+      "HomeRepondreTousBesoinsInscrire" :
+            "Subscribe to know about the last developments",
+      "HomeRepondreTousBesoinsBientotDispo":
+            "Available soon",
+      "HomeBesoinRdy2UseSousTitre" :
+            "For shared office spaces, Coworking, Flex Offices etc",
+      "HomeBesoinRdy2UseElem1" :
+            "Wireless coverage",
+      "HomeBesoinRdy2UseElem2" :
+            "Wireless performances",
+      "HomeBesoinRdy2UseElem3" :
+            "User experience",
+      "HomeBesoinRdy2RentSousTitre" :
+            "For easy",
+      "HomeBesoinRdy2RentElem1" :
+            "Infrastructure",
+      "HomeBesoinRdy2RentElem2" :
+            "Security",
+      "HomeBesoinRdy2RentElem3" :
+            "Resilience",
+      "HomeBesoinRdy2RentElem4" :
+            "Wireless Assessment",
+      "HomeBesoinRdy2RentElem5" :
+            "Recommandations",
+      "HomeBesoinRdy2RentElem6" :
+            "User Experience",
+      "HomeBesoinRdy2InnovateSousTitre" :
+            "For deep renovations and new constructions",
+
+      "HomeReady2UseTexte": "Pour les espaces de travail partagés et connectés",
+      "HomeReady2RentTexte": "Pour les surfaces à aménager rapidement",
+      "HomeReady2InnovateTexte": "Investir durablement ",
+      "HomeNousContacter": "Nous contacter",
+      "HomeMail": "Email",
+      "HomeSujet" : "Sujet",
+      "HomeMessage": "Message",
+      "HomeBtnEnvoyer": "Envoyer",
+
+      "Ready2UseLabelConnectedWork" : "The label ",
+      "Ready2UseLabelConnectedWork2" : "ConnectedWork",
+      "Ready2UseLabelConnectedWorkCitation" : "« One ",
+      "Ready2UseLabelConnectedWorkCitation2" : "optimal connection",
+      "Ready2UseLabelConnectedWorkCitation3" : "immediate » ",
+      "Ready2UseDerriere" : "What is behind ?",
+      "Ready2UseDerriereTexte" : "A labeled area provides access to:",
+      "Ready2UseDerriereElem1" : "A map of all wireless networks",
+      "Ready2UseDerriereElem2" : "An assurance of immediate performance",
+      "Ready2UseDerriereElem3" : "A pledge of confidence",
+      "StepperReady2UseEtape1" : "Contact us",
+      "StepperReady2UseEtape2" : "Labeling",
+      "StepperReady2UseEtape3" : "Monitoring",
+
+      "ConnectiviteIndispensable" : "The indispensable connectivity",
+      "ConnectiviteIndispensableTexte" : "This label helps users identify offices that meet their current and future connectivity needs. It allows homeowners to highlight the technical characteristics of the connectivity of their building",
+      "AiderChoisir": "Help choose, rent faster",
+      "AiderChoisirTexte" : "Facilitate decision-making through connectivity information. Provide real estate agents with summary sheets on connectivity so that they can answer any questions visitors have.",
+      "SeDifferencier" : "Be different",
+      "SeDifferencierTexte" : "Mark your building from the competition. Attract new tenants and retain existing users by ensuring connectivity of your building",
+      "Promouvoir" : "Promote your connected building",
+      "PromouvoirTexte" : "Make your label visible to your users with :",
+      "PromouvoirElem1" : "A map",
+      "PromouvoirElem2" : "Summary sheet",
+      "PromouvoirElem3" : "Stickers",
+      "Ranking" : "Système de ranking",
+
+      "Ready2RentLabelBuildconnect" : "The label",
+      "Ready2RentLabelBuildconnect2" : "BuildConnect",
+      "Ready2RentLabelBuildconnectCitation" : " Immediatly ",
+      "Ready2RentLabelBuildconnectCitation2" : "sign",
+      "Ready2RentLabelBuildconnectCitation3" : ", immediatly",
+      "Ready2RentLabelBuildconnectCitation4" : "installed",
+      "Ready2RentDerriere" : "What is behind ?",
+      "Ready2RentDerriereTexte" : "A labelized building gives access to :",
+      "Ready2RentDerriereElem1" : "In-depth knowledge of the infrastructure",
+      "Ready2RentDerriereElem2" : "Facility performance assurance",
+      "Ready2RentDerriereElem3" : "A map of all wireless networks",
+      "StepperReady2RentEtape1" : "Step 1: Contact us",
+      "StepperReady2RentEtape2" : "Step 2: Preliminary study",
+      "StepperReady2RentEtape3" : "Step 3 : Labeling",
+      "StepperReady2RentEtape4" : "Update",
+
+
+      "StepperContact" : "Contact us",
+      "StepperContactChoisirSegment" : "Choose your segment according to your needs",
+      "StepperLabelisation" : "Labelisation",
+      "StepperLabelisationAnalyse" : "Infrastructure Analysis",
+      "StepperLabelisationCampagne" : "Wireless Measurement Campaign",
+      "StepperLabelisationAttribution" : "Attribution of the label and the license",
+      "StepperLabelAnalyseRecommandation" : "Analysis and recommendation",
+      "StepperMiseAJour" : "Update",
+      "StepperMiseAJourReattribution" : "Reassigning the license of the label",
+      "StepperMonitoring" : "Update",
+      "StepperMonitoringMesure" : "Continuous performance measurement",
+      "StepperMonitoringSurveillance" : "Day-to-day supervision",
+      "StepperMonitoringReporting" : "Reporting",
+      "StepperMonitoringPrix" : "500€/1000 m² / an",
+      "StepperPreli" : "Preliminary study",
+      "StepperPreliRassemblementDocuments" : "Gathering of documents",
+      "StepperPreliEstimation" : "Estimation of reachable label",
+      "StepperPreliDevi" : "Quotation",
+      "StepperPreliPrix" : "2000€ / Project",
+
+
+      "ContactNousContacter" : "Contact Us",
+      "ContactMail" : "By mail",
+      "ContactEnvoyerMail" : "info@buildconnect.be",
+      "ContactTelephone" : "By phone",
+      "ContactNumeroTelephone" : "+32 497 05 67 09",
+      "ContactLaboratoireOpera" : "Opera Laboratory",
+      "ContactWebsiteOpera" : "Website",
+
+
+      "AboutUsQuiSommesNous" : "Who are we ?",
+      "AboutUsBuildConnect" : "Build Connect",
+      "AboutUsBuildConnectTexte1" : "BuildConnect was founded in 2018 as a spin-off of the Université Libre de Bruxelles by researchers of the OPERA lab spécialised in wireless networks.",
+      "AboutUsBuildConnectTexte2" : "BuildConnect’s mission is to make the technical world of connectivity understanble by anyone.",
+      "AboutUsBuildConnectTexte3" : "In that sense, BuildConnect developped an evaluation system of a building’s connectivity to enable asset managers to take informed technical decisions and valorize the quality of their connectivity.",
+      "AboutUsBuildConnectTexte4" : "The performances of building are awarded a label differentiating buildings and enabling users to make the right choice.",
+      "AboutUsOpera" : "The Opera laboratory",
+      "AboutUsOperaTexte" : "",
+
+
+      "FooterPartenaires": "BuildConnect",
+      "FooterBuildconnect": "BuildConnect",
+      "FooterInfo1": "Laboratoires OPERA",
+      "FooterInfo2": "Université Libre de Bruxelles",
+      "FooterRue": "Avenue F. Roosevelt, 50 ",
+      "FooterCommune": "1050 Brussels",
+      "FooterMail": "info@buildconnect.be"
+
+
+}

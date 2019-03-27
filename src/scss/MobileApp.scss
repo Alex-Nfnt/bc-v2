@@ -1,0 +1,65 @@
+$color-dark: #3F3F3F;
+$color-mid: #2e3b60;
+$color-light: #4ec68d;
+$color-white: white;
+$color-bonus: #F5F5F7;
+
+
+.HeaderMobile{
+    display: block;
+    background-color: $color-white !important;
+    p{
+    text-align: center;
+    }
+    .BoutonChoixLangue{
+        margin: auto;
+        text-align: center;
+    }
+    /* Position and sizing of burger button */
+.bm-burger-button {
+    position: fixed;
+    width: 25px;
+    height: 19px;
+    right: 30px;
+    top: 20px;
+  }
+  
+  /* Color/shape of burger icon bars */
+  .bm-burger-bars {
+    background: $color-mid;
+  }
+  
+  /* Color/shape of burger icon bars on hover*/
+  .bm-burger-bars-hover {
+    background: $color-light;
+  }
+  
+  
+  /* Color/shape of close button cross */
+  .bm-cross {
+    background: #bdc3c7;
+  }
+  
+  /*
+  Sidebar wrapper styles
+  Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+  */
+  .bm-menu-wrap {
+    position: fixed;
+    height: 100%;
+  }
+  
+  /* General sidebar styles */
+  .bm-menu {
+    background: $color-dark;
+    padding: 2.5em 1.5em 0;
+    font-size: 1.15em;
+    border-radius: 3px;
+    p{
+        color: $color-light;
+    }
+  }
+
+  
+
+}

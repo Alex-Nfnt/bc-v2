@@ -1,0 +1,175 @@
+{
+
+      "HeaderLabels": "Labels",
+      "HeaderAPropos": "A propos",
+      "HeaderContact": "Contact",
+      "HeaderLangue" : "FR",
+      "HeaderAccueil": "Accueil",
+
+      "HomeSlogan": "Pour un monde connecté et respectueux de la santé",
+      "HomeSloganP1": "La connectivité est un aspect fondamental du travail de chacun aujourd’hui.",
+      "HomeSloganP2" : "Comprendre la technologie qui rend possible cette connexion constante n’est pourtant pas à la portée de chacun.",
+      "HomeSloganP3" : "BuildConnect s’investit donc dans la mise en place d’un système d’évaluation permettant à chacun de mieux connaître la connectivité du bâtiment qui le concerne.",
+      "HomeSloganP4" : "Le label BuildConnect s’établit donc comme un système d’évaluation visant à faciliter la compréhension de la technologie, la prise de décisions stratégiques et de mettre en valeur les bâtiments.",
+      "HomeSloganTexteBouton": "Labeliser mon bâtiment",
+      
+      "HomeConnaitreSaConnectiviteTitre" : 
+            "Connaitre sa connectivité et faire la différence",
+      "HomeConnaitreSaConnectiviteP1" :
+            "La technologie disrupte tous les domaines et entre à grande vitesse dans le monde de l’immobilier.",
+      "HomeConnaitreSaConnectiviteP2" : 
+            "De plus en plus, les entreprises se posent des questions stratégiques quant à leurs choix technologiques. L’argument de la connectivité devient dès lors un argument de premier choix.",
+      "HomeConnaitreSaConnectiviteP3" : 
+            "Mettre en avant la technologie démontre de la planification et de la connaissance du futur de la part du gestionnaire et facilite la prise de décision.",
+      
+      "HomeBuildConnectValoriseTitre" :
+            "Comment le label BuildConnect valorise votre bâtiment pour l'utilisateur ?",
+      "HomeBuildConnectValoriseP1" :
+            "La connectivité est pour chacun devenu indispensable. Le futur tel qu’il se dessine aujourd’hui confirme cette tendance et l’importance grandissante de la technologie.",
+      "HomeBuildConnectValoriseP2" : 
+            "Le label BuildConnect permet à chacun d’obtenir, d’interpréter, de comparer ou de valoriser la technologie du bâtiment qu’il possède, occupe ou dans lequel il envisage de s’installer.",
+      "HomeBuildConnectValoriseP3" : 
+            "Le label BuildConnect couvre l’ensemble de l’infrastructure du bâtiment (structurelle, filaire et sans fils) et jusqu’à l’évaluation de l’expérience utilisateurs dans le bâtiment.",
+      "HomeBuildConnectValoriseP4" : 
+            "De plus, l’évaluation répond aussi aux questions d’exposition aux ondes électromagnétiques.",
+      
+      "HomeRepondreTousBesoinsTitre" :
+            "Répondre à tous les besoins",
+      "HomeRepondreTousBesoinsContact" :
+            "Contactez-nous",
+      "HomeRepondreTousBesoinsInscrire" :
+            "Inscrivez vous pour être tenus au courant des développements",
+      "HomeRepondreTousBesoinsBientotDispo":
+            "Bientôt disponible",
+
+      "HomeBesoinRdy2UseSousTitre" :
+            "Pour les espaces de travail partagés, Coworking, Flex Office etc",
+      "HomeBesoinRdy2UseElem1" : 
+            "Couverture sans fils",
+      "HomeBesoinRdy2UseElem2" : 
+            "Performances sans fils",
+      "HomeBesoinRdy2UseElem3" : 
+            "Expérience Utilisateur",
+            
+
+      "HomeBesoinRdy2RentSousTitre" :
+            "Pour les surfaces à aménager rapidement",
+      "HomeBesoinRdy2RentElem1" : 
+            "Infrastructure",
+      "HomeBesoinRdy2RentElem2" : 
+            "Sécurité",
+      "HomeBesoinRdy2RentElem3" : 
+            "Résilience",
+      "HomeBesoinRdy2RentElem4" : 
+            "Sans fils",
+      "HomeBesoinRdy2RentElem5" : 
+            "Recommandations d’aménagement",
+      "HomeBesoinRdy2RentElem6" : 
+            "Expérience Utilisateur",
+
+      "HomeBesoinRdy2InnovateSousTitre" : 
+            "Pour les rénovations profondes et nouvelles constructions",
+
+      "HomeReady2UseTexte": "Pour les espaces de travail partagés et connectés",
+      "HomeReady2RentTexte": "Pour les surfaces à aménager rapidement",
+      "HomeReady2InnovateTexte": "Investir durablement ",
+      "HomeNousContacter": "Nous contacter",
+      "HomeMail": "Email",
+      "HomeSujet" : "Sujet",
+      "HomeMessage": "Message",
+      "HomeBtnEnvoyer": "Envoyer",
+
+      "Ready2UseLabelConnectedWork" : "Le label ",
+      "Ready2UseLabelConnectedWork2" : "ConnectedWork",
+      "Ready2UseLabelConnectedWorkCitation" : "« Une ",
+      "Ready2UseLabelConnectedWorkCitation2" : "connexion optimale",
+      "Ready2UseLabelConnectedWorkCitation3" : "immédiate » ",
+      "Ready2UseDerriere" : "Qu'est-ce qui se cache derrière ?",
+      "Ready2UseDerriereTexte" : "Un espace labelisé donne accès à :",
+      "Ready2UseDerriereElem1" : "Une cartographie de tous les réseaux sans fils",
+      "Ready2UseDerriereElem2" : "Une assurance de la performance immédiate",
+      "Ready2UseDerriereElem3" : "Un gage de confiance",
+      "StepperReady2UseEtape1" : "Nous contacter",
+      "StepperReady2UseEtape2" : "Labelisation",
+      "StepperReady2UseEtape3" : "Monitoring",
+
+      "ConnectiviteIndispensable" : "La connectivité indispensable",
+      "ConnectiviteIndispensableTexte" : "Ce label aide les utilisateurs à identifier les bureaux répondant à leurs besoins actuels et futurs en matière de connectivité. Il permet aux propriétaires de mettre en avant les caractéristiques techniques de la connectivité de leur immeuble",
+      "AiderChoisir": "Aider à choisir, louer plus vite",
+      "AiderChoisirTexte" : "Facilitez la prise de décision par l’information sur la connectivité. Munissez les agents immobilier de fiches de synthèse sur la connectivité afin qu'ils puissent répondre à toutes les questions des visiteurs.",
+      "SeDifferencier" : "Se différencier",
+      "SeDifferencierTexte" : "Démarquez votre immeuble de la compétition. Attirez de nouveaux locataires et fidélisez les utilisateurs actuels en garantissant la connectivité de votre immeuble",
+      "Promouvoir" : "Promouvoir votre bâtiment connecté",
+      "PromouvoirTexte" : "Rendez votre labelisation visible auprès de vos utiliseurs via :",
+      "PromouvoirElem1" : "Carte",
+      "PromouvoirElem2" : "Fiche de synthèse",
+      "PromouvoirElem3" : "Stickers",
+      "Ranking" : "Système de ranking",
+
+      "Ready2RentLabelBuildconnect" : "Le label",
+      "Ready2RentLabelBuildconnect2" : "BuildConnect",
+      "Ready2RentLabelBuildconnectCitation" : " Aussitôt ",
+      "Ready2RentLabelBuildconnectCitation2" : "signé",
+      "Ready2RentLabelBuildconnectCitation3" : ", aussitôt",
+      "Ready2RentLabelBuildconnectCitation4" : "installé",
+      "Ready2RentDerriere" : "Qu'est-ce qui se cache derrière ?",
+      "Ready2RentDerriereTexte" : "Un batiment labelisé donne accès à :",
+      "Ready2RentDerriereElem1" : "Une connaissance profonde de l'infrastructure",
+      "Ready2RentDerriereElem2" : "Une assurance de la perfomance des installations",
+      "Ready2RentDerriereElem3" : "Une cartographie de tous les réseaux sans fils",
+      "StepperReady2RentEtape1" : "Etape 1 : Nous contacter",
+      "StepperReady2RentEtape2" : "Etape 2 : Etude préliminaire",
+      "StepperReady2RentEtape3" : "Etape 3 : Labelisation",
+      "StepperReady2RentEtape4" : "Mise à jour du Label",
+
+
+      "StepperContact" : "Prise de contact",
+      "StepperContactChoisirSegment" : "Choisir son segment selon ses besoins",
+      "StepperLabelisation" : "Labelisation",
+      "StepperLabelisationAnalyse" : "Analyse de l'infrastructure",
+      "StepperLabelisationCampagne" : "Campagne de mesures sans fils",
+      "StepperLabelisationAttribution" : "Attribution du label et de la licence",
+      "StepperLabelAnalyseRecommandation" : "Analyse et recommandation",
+      "StepperMiseAJour" : "Mise à jour du Label",
+      "StepperMiseAJourReattribution" : "Réattribution de la licence du label",
+      "StepperMonitoring" : "Mise à jour du Label",
+      "StepperMonitoringMesure" : "Mesure continue des performances",
+      "StepperMonitoringSurveillance" : "Surveillance day-to-day",
+      "StepperMonitoringReporting" : "Reporting",
+      "StepperMonitoringPrix" : "500€/1000 m² / an",
+      "StepperPreli" : "Etude préliminaire",
+      "StepperPreliRassemblementDocuments" : "Rassemblement des documents",
+      "StepperPreliEstimation" : "Estimation du label atteignable",
+      "StepperPreliDevi" : "Devi",
+      "StepperPreliPrix" : "2000€ / Projet",
+
+
+      "ContactNousContacter" : "Nous contacter",
+      "ContactMail" : "Par mail",
+      "ContactEnvoyerMail" : "info@buildconnect.be",
+      "ContactTelephone" : "Par téléphone",
+      "ContactNumeroTelephone" : "+32 497 05 67 09",
+      "ContactLaboratoireOpera" : "Laboratoire Opera",
+      "ContactWebsiteOpera" : "Website",
+
+
+      "AboutUsQuiSommesNous" : "Qui sommes-nous ? ",
+      "AboutUsBuildConnect" : "Build Connect",
+      "AboutUsBuildConnectTexte1" : "BuildConnect fut fondée en 2018 en tant que spin-off de l’Université Libre de Bruxelles par des chercheurs du laboratoire OPERA spécialisé en réseaux sans fils.",
+      "AboutUsBuildConnectTexte2" : "La mission de BuildConnect est de rendre compréhensible par tous le monde technique de la connectivité.",
+      "AboutUsBuildConnectTexte3" : "Dans ce sens, BuildConnect a développé un système d’évaluation de la connectivité pour permettre aux gestionnaires immobiliers de prendre des décisions techniques éclairées et de mettre en valeur la qualité de leur connectivité.",
+      "AboutUsBuildConnectTexte4" : "Les performances d’un bâtiment sont ainsi récompensées d’un label différenciant les bâtiments et permettant aux utilisateurs de faire le bon choix",
+      "AboutUsOpera" : "Le laboratoire Opera",
+      "AboutUsOperaTexte" : "",
+
+
+      "FooterPartenaires": "BuildConnect",
+      "FooterBuildconnect": "BuildConnect",
+      "FooterInfo1": "Laboratoires OPERA",
+      "FooterInfo2": "Université Libre de Bruxelles",
+      "FooterRue": "Avenue F. Roosevelt, 50 ",
+      "FooterCommune": "1050 Brussels",
+      "FooterMail": "info@buildconnect.be"
+    
+  
+}
